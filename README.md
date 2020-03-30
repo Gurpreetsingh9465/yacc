@@ -11,7 +11,8 @@
 ```sudo apt-get install flex```
 
 3. Install bison 
-```sudo apt-get install flex```
+```sudo apt-get install bison```
+
 4. To run any proogram
    * cd {folderName}
    * bash {filename}.sh
