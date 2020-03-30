@@ -13,7 +13,7 @@
 3. Install bison 
 ```sudo apt-get install bison```
 
-4. To run any proogram
+4. To run any program
    * cd {folderName}
    * bash {filename}.sh
    * ./a.out
